@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do APP</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="completed">Mark as completed</string>
+<!--   // <string name="app_name">To Do APP</string>-->
+</resources>
